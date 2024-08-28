@@ -1,14 +1,14 @@
-# NoobCoin - A Simple Cryptocurrency
+# CoinX - A Simple Cryptocurrency
 
-NoobCoin is a basic implementation of a cryptocurrency using Java. This project is part of a tutorial to help developers understand the fundamentals of blockchain, cryptographic signatures, transactions, and wallets.
+CoinX is a basic implementation of a cryptocurrency using Java. This project is part of a tutorial to help developers understand the fundamentals of blockchain, cryptographic signatures, transactions, and wallets.
 
 ## Features
 
 - **Blockchain**: A simple, verifiable blockchain that stores transactions.
 - **Wallets**: Generates Elliptic Curve KeyPairs for public and private keys. The public key serves as the address, while the private key is used for signing transactions.
-- **Transactions**: Includes inputs and outputs, enabling the transfer of NoobCoins between wallets. Transactions are signed and verified using cryptographic signatures.
+- **Transactions**: Includes inputs and outputs, enabling the transfer of CoinXs between wallets. Transactions are signed and verified using cryptographic signatures.
 - **Merkle Root**: Used for efficient transaction verification within blocks.
-- **Genesis Block**: The first block that initializes the blockchain and releases NoobCoins to a specified wallet.
+- **Genesis Block**: The first block that initializes the blockchain and releases CoinXs to a specified wallet.
 
 ## Getting Started
 
