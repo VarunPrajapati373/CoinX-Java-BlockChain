@@ -1,6 +1,6 @@
 # CoinX - A Simple Cryptocurrency
 
-CoinX is a basic implementation of a cryptocurrency using Java. This project is part of a tutorial to help developers understand the fundamentals of blockchain, cryptographic signatures, transactions, and wallets.
+CoinX is a basic implementation of a cryptocurrency using Java. This project is to help understand the fundamentals of blockchain, cryptographic signatures, transactions, and wallets.
 
 ## Features
 
