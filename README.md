@@ -47,7 +47,7 @@ CoinX is a basic implementation of a cryptocurrency using Java. This project is 
     
 ### Testing the Wallets and Transactions
 
-The main method in the `NoobChain` class demonstrates the following:
+The main method in the `coinx chain` class demonstrates the following:
 
 - Creating two wallets (`walletA` and `walletB`).
 - Generating a transaction from `walletA` to `walletB`.
@@ -76,7 +76,7 @@ The main method in the `NoobChain` class demonstrates the following:
     - Represents a block in the blockchain.
     - Contains a list of transactions and the Merkle root of those transactions.
 
-5. **NoobChain Class**:
+5. **coinx chain Class**:
 
     - Manages the blockchain.
     - Includes methods to validate the chain and add transactions to blocks.
